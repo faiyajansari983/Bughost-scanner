@@ -1,2 +1,2 @@
 # Bughost-scanner
-python bugscanx
+python scanx.py
